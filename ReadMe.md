@@ -6,14 +6,15 @@ Basicly this tool helped you Run 30 Machine learning algorithms with 1 line of c
 Let's try this library :point_down: 
 - first install lazypredict `!pip install lazypredict`
 
-- Furthermore just see this Screenshoot below!!:point_down:
+- Next step just see this Screenshoot below!!:point_down:
     - ![lp tut](https://user-images.githubusercontent.com/112558588/212098275-af3acba8-1462-42e6-8047-bc5ac6467e3d.png)
 
 
 ### CAUTION 
 - **It's NOT meant for product choice. It is meant for exploration of all models**
 
-## This is also my first time trying this tool :grin_sweat: ,either this tool has so many controversion, i think this tool is very helpful if used in a right way  
+## This is also my first time trying this tool, either this tool has so many controversion, i think this tool is very helpful if used in a right way  
 
 For further details about what model i choose, and what process i do on creating this model for <b>Breast Cancer prediction</b> you can check out my colab<b>[notebook](https://github.com/Nataalfa/Model-For-Breast-Cancer-Prediction/blob/main/Breast_cancer_prediction_model.ipynb)</b>. On that notebook i elaborate each steps i used, including what **scoring method to used for this model, and the reason**.
+Thank you :grimacing:
 
