@@ -15,4 +15,4 @@ Let's try this library :point_down:
 
 ## This is also my first time trying this tool. Despite the controversies surrounding it, I believe this tool can be very helpful if used in the right way.  
 
-If you're curious about the model I picked and the steps I took to make a <b>Breast cancer prediction model</b>, check out my <b>[Colab notebook]((https://github.com/Nataalfa/Model-For-Breast-Cancer-Prediction/blob/main/Breast_cancer_prediction_model.ipynb))</b>. I go into detail on everything I did, like **what scoring method I used and why**. Thanks!:grimacing:
+If you're curious about the model I picked and the steps I took to make a <b>Breast cancer prediction model</b>, check out my <b>[Colab notebook](https://github.com/Nataalfa/Model-For-Breast-Cancer-Prediction/blob/main/Breast_cancer_prediction_model.ipynb)</b>. I go into detail on everything I did, like **what scoring method I used and why**. Thanks!:grimacing:
