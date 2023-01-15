@@ -6,7 +6,7 @@ Basicly this tool helped you Run 30 Machine learning algorithms with 1 line of c
 Let's try this library :point_down: 
 - first step, install lazypredict `!pip install lazypredict`
 
-- Next step just see this Screenshoot below!!:point_down:
+- Next step, just see this Screenshoot below!!:point_down:
     - ![lp tut](https://user-images.githubusercontent.com/112558588/212098275-af3acba8-1462-42e6-8047-bc5ac6467e3d.png)
 
 
