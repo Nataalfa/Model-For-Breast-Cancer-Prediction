@@ -1,7 +1,7 @@
 # Model Selection
-In exploring models for this prediction. I'm using helpful exploratory tool that called **Lazyprediict**. This tool helps with baseline and sanity check.
+In exploring models for this prediction. I'm using helpful exploratory tool that called **Lazypredict**. This tool helps with baseline and sanity check.
 
-Basicly this tool helped you Run 30 Machine learning algorithms with 1 line of code :rocket. it automates all the fit and predict process.
+Basicly this tool helped you Run 30 Machine learning algorithms with 1 line of code :rocket:. it automates all the fit and predict process.
 
 Let's try this library :point_down: 
 - first step, install lazypredict `!pip install lazypredict`
